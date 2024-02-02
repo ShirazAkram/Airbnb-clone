@@ -1,0 +1,37 @@
+ .card-container {
+    width: 100%;
+    
+}
+
+.card2-div {
+    align-items: center;
+
+    > img {
+        width: 12vw;
+        height: 35vh;
+    }
+
+    > .card2 {
+        width: 12vw;
+        border-radius: 10px;
+        margin: 0.3rem; 
+        
+    }
+}
+
+
+.row2 {
+    padding: 1rem;
+
+    
+
+    > .card2-section {
+       display: flex;
+       overflow-x: auto;
+       align-items: center;
+
+    }
+}
+
+
+
